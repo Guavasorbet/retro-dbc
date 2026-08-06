@@ -15,6 +15,6 @@ Once I was pleased with the overall UI design, I stored the files on GitHub, dep
 
 The final product is a fun project that I can utilize at any event to express who I am and give a glimpse of my personality apparatus which is       " Creative, Business-minded, people-centered, resourceful," with a heavy dose of nerdiness.
 
-<img width="461" height="389" alt="image" src="https://github.com/user-attachments/assets/0dfaacd3-9756-44ba-a377-64873d3418a3" />
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/0dfaacd3-9756-44ba-a377-64873d3418a3" />
 
-<img width="522" height="546" alt="image" src="https://github.com/user-attachments/assets/7e4264e5-85db-4f13-a628-86069a0e7eab" />
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/7e4264e5-85db-4f13-a628-86069a0e7eab" />
