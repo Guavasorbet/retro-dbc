@@ -1,7 +1,6 @@
 # retro-dbc
 Retro- DBC
 
-
 So often I find myself in social and networking events, chatting and connecting with people. Often than not, when one exits the conversation, we find ourselves struggling to establish that line of direct connection. We pull our business cards out of our pockets, folded and wrinkled, simply reaching in just to realize I ran out of business cards.
 
 Here's when my Bob the Builder persona kicks in and I come up with solutions. In this instance, the predicament I had was "hey, let's stay in touch" far more smoothly and, if possible, quickly. 
