@@ -13,9 +13,8 @@ Before writing the program, I worked on the design, style, and overall purpose. 
 Then I wrote, refined, and tested the program using tools such as Claude, Gemini, Adobe Cloud Lightroom, NFC app, and a headshot of myself.
 Once I was pleased with the overall UI design, I stored the files on GitHub, deployed the page, and wrote and locked the URL into the card using the mobile NFC app. 
 
-The final product is a fun project that I can utilize at any event to express who I am and give a glimpse of personality apparatus which is           " Creative, Business-minded, people-centered, resourceful" with a heavy dose of nerdiness.
+The final product is a fun project that I can utilize at any event to express who I am and give a glimpse of my personality apparatus which is       " Creative, Business-minded, people-centered, resourceful," with a heavy dose of nerdiness.
 
 <img width="461" height="389" alt="image" src="https://github.com/user-attachments/assets/0dfaacd3-9756-44ba-a377-64873d3418a3" />
 
 <img width="522" height="546" alt="image" src="https://github.com/user-attachments/assets/7e4264e5-85db-4f13-a628-86069a0e7eab" />
-
